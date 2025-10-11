@@ -1,0 +1,1 @@
+g++ -o xtest1 -O3 TPSAad.cpp testfunc1.cpp

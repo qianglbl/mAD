@@ -1,0 +1,1 @@
+gfortran -o xtest1 -O3 ADmod.f90 testfunc1.f90
