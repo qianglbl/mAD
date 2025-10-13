@@ -20,7 +20,10 @@ works, and perform publicly and display publicly, and to permit others to do so.
 ****************************
 This package contains an Automatic Differentiation (AD) module/class, which has been
 implemented in five programming languages: Fortran, C++, Java, Python, and Julia. 
-To utilize this module, standard variables (e.g., `double`) must be declared as AD variables.
+To utilize this module, some standard variables (e.g., `double`) must be declared as AD variables.
+
+The package aims to provide transparency and simplicity for integrating auto-differentiation 
+into various applications.
 
 Please note that for each application, the `dimmax` variable within the module must
 be set to the total number of variables intended for differentiation. We have included
