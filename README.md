@@ -18,15 +18,13 @@ Software to reproduce, distribute copies to the public, prepare derivative
 works, and perform publicly and display publicly, and to permit others to do so.
 
 ****************************
-This package includes a AD module/class implemented using 5 programing languages:
-Fortran, C++, Java, Python, Julia.
-To use this module, the noraml variables (e.g. double) should be declared as
-the AD variable. 
+This package contains an Automatic Differentiation (AD) module/class, which has been
+implemented in five programming languages: Fortran, C++, Java, Python, and Julia. 
+To utilize this module, standard variables (e.g., `double`) must be declared as AD variables.
 
-NOTE: for each application the variable "dimmax" in the module should be set to the number
-of variables to be differentiated!! 
-There are 3 examples implemented using 5 languages so that users can see how the module
-is used.
+Please note that for each application, the `dimmax` variable within the module must
+be set to the total number of variables intended for differentiation. We have included
+three examples, implemented in all five languages, to demonstrate how to use the module effectively.
 ****************************
 Contact: Ji Qiang (jqiang@lbl.gov)
 ****************************
