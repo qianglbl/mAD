@@ -1,5 +1,5 @@
 /*
- * TPSAad.cpp: by Allen Qiang & Ji Qiang
+ * TPSAad.cpp: by Ji Qiang
  *
  */
 #include "TPSAad.h"
