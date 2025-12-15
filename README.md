@@ -32,6 +32,7 @@ three examples, implemented in all five languages, to demonstrate how to use the
 Contact: Ji Qiang (jqiang@lbl.gov)
 ****************************
 Citation:
+
 J. Qiang, Y. Hao, A. Qiang, J. Wan, “A module for fast auto differentiable simulations” in Proc. of IPAC25, WEBN2, p.1671, 2025. 
 
 J. Qiang, Y. Hao, A. Qiang, J. Wan, "A multi-language auto-differentiation module and 
